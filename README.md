@@ -45,8 +45,7 @@ Ready to embark on a transformative journey with Scrammy CO.? Contact us today t
 Let's innovate together and transform our future!
 
 
-## Technology used
- Javascript
+## Technologies used
  Html
  Css
 
