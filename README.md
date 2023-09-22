@@ -4,6 +4,10 @@ Welcome to Scrammy Co, where we turn your ideas and dreams into digital reality!
 
 ## About Us
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+
+>>>>>>> 82f6488b42a5912d14c710a7cb2c43181a054a99
 At Scrammy Co, we are dedicated to pushing the boundaries of technology to create innovative solutions that empower businesses and individuals. We're also trailblazers on a mission to redefine the future. With a passionate team of experts, we offer a diverse range of services in software development, data science, machine learning, and graphic design.
 
 ### Software Development
@@ -60,12 +64,21 @@ The authors of this project are:
 
 ## License
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+<<<<<<< HEAD
 =======
 We ofer training classes for all types of peoplea all abobe 18yrs.
+=======
+
+We offer training classes for all types of peoplea all abobe 18yrs.
+>>>>>>> 82f6488b42a5912d14c710a7cb2c43181a054a99
 
 ## Services 
 At Scrammy we offer Software Development, Data Science, Machine Learning and Graphic Design classes.
 
 ## Contacts
 Our contacts are:
+<<<<<<< HEAD
 >>>>>>> 4608822c2694338769284694a11748e709ac9cef
+=======
+
+>>>>>>> 82f6488b42a5912d14c710a7cb2c43181a054a99
