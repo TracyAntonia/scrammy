@@ -40,10 +40,6 @@ First impressions matter, and our graphic design team is here to make sure your 
 
 Ready to embark on a transformative journey with Scrammy CO.? Contact us today to discuss your project and discover how our solutions can help elevate your business.
 
-- **Website:** [www.scrammy.com](https://www.scrammy.com)
-- **Email:** info@scrammy.com
-- **Phone:** +254 790875634
-
 Let's innovate together and transform our future!
 
 
@@ -72,5 +68,10 @@ At Scrammy we offer Software Development, Data Science, Machine Learning and Gra
 
 ## Contacts
 Our contacts are:
+
+- **Website:** [www.scrammy.com](https://www.scrammy.com)
+- **Email:** info@scrammy.com
+- **Phone:** +254 790875634
+
 
 
