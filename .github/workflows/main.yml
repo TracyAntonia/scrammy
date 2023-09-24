@@ -1,0 +1,19 @@
+name: Mark Issues as Done
+
+on:
+  push:
+    branches:
+      - Eric
+
+jobs:
+  mark-issues-as-done:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out the code
+        uses: actions/checkout@v2
+
+      - name: Mark Issues as Done
+        run: |
+          gh issue edit 2 --title "scrammy #2" --body "Create the home page in the html file" --state closed
+
