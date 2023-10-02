@@ -4,6 +4,7 @@ Welcome to Scrammy Co, where we turn your ideas and dreams into digital reality!
 
 ## About Us
 
+
 At Scrammy Co, we are dedicated to pushing the boundaries of technology to create innovative solutions that empower businesses and individuals. We're also trailblazers on a mission to redefine the future. With a passionate team of experts, we offer a diverse range of services in software development, data science, machine learning, and graphic design.
 
 ### Software Development
@@ -39,10 +40,6 @@ First impressions matter, and our graphic design team is here to make sure your 
 
 Ready to embark on a transformative journey with Scrammy CO.? Contact us today to discuss your project and discover how our solutions can help elevate your business.
 
-- **Website:** [www.scrammy.com](https://www.scrammy.com)
-- **Email:** info@scrammy.com
-- **Phone:** +254 790875634
-
 Let's innovate together and transform our future!
 
 
@@ -60,6 +57,9 @@ The authors of this project are:
 
 ## License
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+We ofer training classes for all types of peoplea all abobe 18yrs.
+
+We offer training classes for all types of peoplea all abobe 18yrs.
 
 We offer training classes for all types of peoplea all abobe 18yrs.
 
@@ -68,4 +68,10 @@ At Scrammy we offer Software Development, Data Science, Machine Learning and Gra
 
 ## Contacts
 Our contacts are:
+
+- **Website:** [www.scrammy.com](https://www.scrammy.com)
+- **Email:** info@scrammy.com
+- **Phone:** +254 790875634
+
+
 
